@@ -1,0 +1,14 @@
+.row {
+    background-color: rgb(255, 249, 238);
+    }
+
+footer {
+    color: blueviolet;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 2px -2px 5px #999;
+    margin-top: 20px;
+}
+    
